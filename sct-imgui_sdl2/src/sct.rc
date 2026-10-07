@@ -1,0 +1,3 @@
+// Windows resources. GLFW loads "GLFW_ICON" for the window class (title bar,
+// taskbar, Alt+Tab); Explorer shows the first icon group in the exe.
+GLFW_ICON ICON "assets/icon/sct.ico"
